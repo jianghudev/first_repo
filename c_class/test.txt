@@ -21,7 +21,7 @@ typedef  A classA;
 int fun1(c_class A*a_this,int b){
 	return a_this->m_b=b;
 }
-//#$43543543
+//112
 int main(int argc, char* argv[])
 {
 	printf("Hello World!\n");
@@ -41,7 +41,7 @@ int main(int argc, char* argv[])
 
 	printf("m_b =%d\n",p->m_b);
 
-	printf("git tedsad2321");
+	printf("git 332322");
 	getchar();
 	return 0;
 }
